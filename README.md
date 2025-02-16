@@ -1,1 +1,1 @@
-# DSCI552_ML_for_DS_homework-0-dikshapardeshi
+# homework-0-dikshapardeshi
